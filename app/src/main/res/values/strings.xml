@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Arun Ayyer</string>
+    <string name="title">Engineer</string>
+    <string name="phone_number">+1 987-654-3210</string>
+    <string name="email">arunayyer@someemail.com</string>
+    <string name="social">aroon@social.network</string>
+    <string name="phone_icon_desc">Icon of a phone</string>
+    <string name="email_icon_desc">Icon of an email</string>
+    <string name="network_icon_desc">Icon representing a social network</string>
+</resources>
